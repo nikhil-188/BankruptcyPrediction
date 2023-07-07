@@ -9,15 +9,12 @@ The dataset includes financial ratios and other attributes of companies, includi
 
 **Machine Learning Algorithms:**
 In this research, we comparatively studied five machine learning algorithms. A brief explanation of each of them is given below
-Logistic Regression with PCA
 
-SVM: 
-
-Naïve Bayes:
-
-Decision Tree:
-
-Random Forest:
+    Logistic Regression with PCA
+    SVM
+    Naïve Bayes
+    Decision Tree
+    Random Forest
 
 **Methodology:**
 
